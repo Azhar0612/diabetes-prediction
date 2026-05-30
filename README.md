@@ -37,3 +37,4 @@ It is built using Python and trained on a healthcare dataset.
 pip install pandas numpy scikit-learn
 python diabetes.py
 ```
+https://www.linkedin.com/in/azhar-mohammad69
